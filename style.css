@@ -39,6 +39,20 @@
     text-align: center;
 }
 
+.nav-list ul li {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.grey {
+    color: #d3d3d3;
+}
+
+.blue {
+    width: 25%;
+    color: #6851ff;
+}
+
 
 
 
