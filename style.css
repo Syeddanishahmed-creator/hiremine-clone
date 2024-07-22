@@ -53,6 +53,28 @@
     color: #6851ff;
 }
 
+/* First Section  */
+
+.first-sec-h1 {
+    text-align: center;
+    margin-top: 60px;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: 800px;
+    font-size: 80px !important;
+    line-height: 100px;
+    letter-spacing: -.02em;
+    background: linear-gradient(106.43deg, #522fd4, #6bdcff 95.12%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+p {
+    margin-top: 16px;
+    
+}
 
 
 
