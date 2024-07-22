@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: 'roboto';
 }
 
 /* Navbar */
@@ -15,6 +16,7 @@
 .nav-logo {
     width: 25%;
     align-items: center;
+    margin-left: 160px;
 }
 
 .nav-logo img {
@@ -57,7 +59,7 @@
 
 .first-sec-h1 {
     text-align: center;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 
 h1 {
