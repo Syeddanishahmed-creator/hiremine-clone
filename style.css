@@ -102,7 +102,53 @@ p {
 
 }
 
-.button
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.job{
+    height: 44px;
+    width: 130px;
+    padding: 10px 24px;
+    font-size: 16px;
+    border-radius: 50px;
+    letter-spacing: 0.02857em;
+    background-color: rgb(104, 81, 255);
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.job:hover {
+    background-color: #4838B2;
+}
+
+.popular {
+    margin: 16px 0px 0px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+    background: linear-gradient(180deg,#4d3bdb 0%,#9747ff 100%);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    letter-spacing: -.02em;
+}
+
+/* Second Section */
+
+.multi-btn {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-top: 16px;
+}
 
 
 
