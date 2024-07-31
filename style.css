@@ -227,7 +227,6 @@ button {
     align-items: center;
     gap: 10px;
     margin-top: 70px;
-
 }
 
  .box{
@@ -245,17 +244,111 @@ button {
     border-radius: 24px;
     background: linear-gradient(180deg, #edebff, hsla(0, 0%, 100%, 0));
     padding: 40px;
+    box-shadow: 0 4px 40px #bdb2ff3d;
+    margin-right: 10px;
 }
 
 .box i {
-    margin-top: 30px;
-    width: 24px;
+    margin-top: 20px;
+    width: 20px;
     height: 25px;
-        
+    font-size: 22px;    
+    font-weight: bold;
+    color: #6851ff;
+
 }
 
 
+.hired-box p {
+    color: #6851ff;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
 
+/* fourth section  */
 
+.dream-job {
+    margin: 500px 0px 0px 0px;
+    width: 100%;
+    height: 56.01px;
+    font-style: normal;
+    text-align: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 48px;
+    letter-spacing: -.02em;
+    color: #3f3f3f;
+    padding: 0px 24px;
+    
+}
+
+.dream-job span {
+    font-style: normal;
+    text-align: center;
+    color: #6851ff;
+    letter-spacing: -.02em;
+}
+
+.dream-job p {
+    margin: 0;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    color: rgb(49, 49, 49);
+    font-size: 20px;
+}
+
+.dream-img {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.career {
+    margin-top: 150px;
+    width: 100%;
+    height: 56.01px;
+    font-style: normal;
+    text-align: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 48px;
+    letter-spacing: -.02em;
+    color: #3f3f3f;
+    padding: 0px 24px;
+}
+
+.career span {
+    font-style: normal;
+    text-align: center;
+    color: #6851ff;
+    letter-spacing: -.02em;
+    font-size: 48px;
+    
+}
+
+.career-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.career-boxes {
+    width: 100%;
+    height: 220px;
+    gap: 10px;
+    padding: 40px;
+    border: 1px solid #fff;
+    border-radius: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    background: linear-gradient(180deg, #edebff, hsla(0, 0%, 100%, 0));
+    box-shadow: 0 4px 40px #bdb2ff3d;
+}
 
 
