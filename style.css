@@ -383,3 +383,9 @@ button {
 .option a {
     color: #6851ff;
 }
+
+/* fifth section  */
+
+.latest {
+    flex-direction: column;
+}
