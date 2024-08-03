@@ -111,7 +111,7 @@ p {
 }
 
 .job{
-    height: 44px;
+    /* height: 44px; */
     width: 130px;
     padding: 10px 24px;
     font-size: 16px;
@@ -186,7 +186,7 @@ button {
 
 
 .hero-img img{
-    height: 100%;
+    height: 300px;
     width: 100%;
 }
 
@@ -195,7 +195,7 @@ button {
 .get-hired {
     margin: 160px 0px;
     width: 100%;
-    height: 56.01px;
+    /* height: 56.01px; */
     font-style: normal;
     text-align: center;
     align-items: center;
@@ -237,7 +237,7 @@ button {
     /* justify-content: center; */
     gap: 10px;
     width: 100%;
-    height: 220px;
+    /* height: 220px; */
     border: 1px solid #fff;
     font-size: 16px;
     line-height: 24px;
@@ -252,7 +252,7 @@ button {
 .box i {
     margin-top: 20px;
     width: 20px;
-    height: 25px;
+    /* height: 25px; */
     font-size: 22px;    
     font-weight: bold;
     color: #6851ff;
@@ -272,7 +272,7 @@ button {
 .dream-job {
     margin: 500px 0px 0px 0px;
     width: 100%;
-    height: 56.01px;
+    /* height: 56.01px; */
     font-style: normal;
     text-align: center;
     align-items: center;
@@ -310,7 +310,7 @@ button {
 .career {
     margin-top: 150px;
     width: 100%;
-    height: 56.01px;
+    /* height: 56.01px; */
     font-style: normal;
     text-align: center;
     align-items: center;
@@ -343,7 +343,7 @@ button {
     align-items: center;
     text-align: center;
     width: 23%;
-    height: 220px;
+    /* height: 220px; */
     gap: 10px;
     padding: 40px;
     border: 1px solid #fff;
@@ -387,5 +387,22 @@ button {
 /* fifth section  */
 
 .latest {
-    flex-direction: column;
+    margin-top: 800px;
+    width: 100%;
+    /* height: 600px; */
+    text-align: center;
+}
+
+.latest h3 {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.latest span {
+    font-style: normal;
+    text-align: center;
+    color: #6851ff;
+    letter-spacing: -.02em;
+    font-size: 48px;
+
 }
