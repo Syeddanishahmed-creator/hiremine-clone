@@ -270,7 +270,6 @@ button {
 /* fourth section  */
 
 .dream-job {
-    margin: 500px 0px 0px 0px;
     width: 100%;
     /* height: 56.01px; */
     font-style: normal;
@@ -387,7 +386,7 @@ button {
 /* fifth section  */
 
 .latest {
-    margin-top: 800px;
+    margin-top: 80px;
     width: 100%;
     /* height: 600px; */
     text-align: center;
